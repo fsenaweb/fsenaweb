@@ -1,31 +1,37 @@
-# Welcome to my repositories
+# Matheus Ricelly
+## Front-end Software Engineer
+[www.fsenaweb.dev](https://fsenaweb.dev)
 
-### Meet my personal page 
-[www.fsenaweb.me](https://fsenaweb.me)
+Pleased to meet you, my name is Matheus Ricelly and since mid 2010 I have been working with web development, initially with experience as a back-end developer using the PHP language in my projects. I worked with tools like Laravel, CodeIgniter, Lumen and others.
 
-> Experience using PHP in my projects. I work with tools like Laravel, CodeIgniter, Lumen, Git, Docker, among others. 
->
-> I have dedicated myself to developing with the JavaScript language and its tools and I have been strengthening my knowledge with Node, Express, Adonis.js, as well > as frontend tools like Vue and React to make web applications more interactive
-> 
-> In my developed projects, I have complete solutions such as Progressive Web App (PWA), Sites, Web Systems, Landing Page, Single Page Application (SPA).
+In the last few years, more precisely since the year 2017, I have dedicated myself to front-end development with the JavaScript language, and through its tools I have been developing several web applications, using Vue.js and React (and several tools of its ecosystems like Nuxt, Gatsby, Next, React Native).
+
+In my developed projects, I have complete solutions such as Progressive Web App (PWA), Sites, Web Systems, Landing Page, Single Page Application (SPA), Native and hybrid Mobile Applications. Career developed in the Information Technology area, with experience and academic training in web systems development.
+
+<div> 
+  <a href="http://www.linkedin.com/in/fsenaweb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=yellow" target="_blank"></a>
+ 	<a href="https://twitter.com/fsenaweb" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fsenaweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+ 
+</div>
 
 ### Technology I work on
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-<code><img height="30" src="https://img.utdstc.com/icons/codeigniter.png:225"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://e7.pngegg.com/pngimages/117/744/png-clipart-node-js-javascript-express-js-software-developer-react-network-code-angle-text.png"></code>
-<code><img height="30" src="https://adonisjs.com/images/badge.svg"></code>
-<code><img height="30" src="https://camo.githubusercontent.com/ac31ac54c2013850b0fb8a3a4926f4718a398fb3/68747470733a2f2f7777772e6761747362796a732e6f72672f6d6f6e6f6772616d2e737667"></code>
-<code><img height="30" src="https://camo.githubusercontent.com/06b2f979b4fbab8f1822cab69783700f0afa1f90/68747470733a2f2f6e7578746a732e6f72672f6d6574615f3430302e706e67"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="30" src="https://cdn-images-1.medium.com/max/280/1*ZtdxmoygPBpZFETAE4AoFw@2x.png"></code>
-
+<div>
+<img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+<img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="55" src="https://e7.pngegg.com/pngimages/117/744/png-clipart-node-js-javascript-express-js-software-developer-react-network-code-angle-text.png">
+<img height="55" src="https://camo.githubusercontent.com/b0972dd62bbf6ee0e28ed0ebceb48427a481568caeeb639066b23c754f0c60e5/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667">
+<img height="55" src="http://imgur.com/V4LtoII.png">
+<img height="55" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67">
+<img height="55" src="https://pbs.twimg.com/profile_images/1087392649122861057/M6EKYWWJ_400x400.jpg">
+<img height="55" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
+<img height="55" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
+<img height="55" src="http://crea8ivetechnologies.com/assets/images/services/codeigniter/row1-img.jpg">
+<img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+<img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</div>
+  
 ### My participation on github
 ![Matheus Ricelly github stats](https://github-readme-stats.vercel.app/api?username=fsenaweb)
